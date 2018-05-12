@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6874
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Brehm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39404#Het-Leven-der-Dieren--Deel-2-Hoofdstuk-10--De-Stootvogels
 gutenberg_issued: '2012-04-09'
 gutenberg_type: Text
 identifiers:
